@@ -3,11 +3,11 @@ Hi there, my name is Andre👋
 - 🔭 I am looking for small projects that I can get involved in to develop my skills and knowledge.
 
 I would say that my favorite languages are:
-  - C#
   - Java
+  - C#
   - Javascript
 
-but I'm not afraid to take on the challenge of a completely new language.
+but i am not afraid to take on the challenge of a completely new language.
 
 So if you have tasks in your projects that are beginner friendly. you can contact me at:
 
