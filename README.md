@@ -5,7 +5,7 @@ Hi there, my name is Andre👋
 I would say that my favorite languages are:
   - C#
   - Java
-  - javascript
+  - Javascript
 
 but I'm not afraid to take on the challenge of a completely new language.
 
